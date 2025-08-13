@@ -99,6 +99,7 @@ button {
     border-radius: 50%;
     position: relative; 
     z-index: 20;
+    cursor: pointer;
 }
 button.active {
     background-color: var(--grey500);
